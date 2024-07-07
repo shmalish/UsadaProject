@@ -21,8 +21,15 @@ So, I present this blog post to find the answer to my questions, do some learnin
 
 ## Androstenediol (5ɑ-androst-1-ene-3ß,17ß-diol)
 
-Testing to see if it pushes to github
+RX list describes Androstendiol as an oral steroid which increases testosterone in the body. However, apparently, this substance is ineffective for performance enhancements as rx list states that it doesn't seem to help much with what you want testosterone to do which is to make your muscles larger and stronger. Nor does it seem to increase libido and energy. 
 
+
+The side effect on androstnediol seems to be basically the same side effects as using testosterone which makes sense. 
+
+This substance is a metabolite of DHEA. 
+
+sources
+https://www.rxlist.com/supplements/androstenediol.htm
 
 
 
