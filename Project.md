@@ -4,8 +4,9 @@
 # The Mo Usada banned substances Blog!
 - [The Mo Usada banned substances Blog!](#the-mo-usada-banned-substances-blog)
 - [Introduction](#introduction)
-- [Chapter 1 - Anabolic Agants](#chapter-1---anabolic-agants)
+- [Chapter 1 - Anabolic Agents](#chapter-1---anabolic-agents)
   - [Androstenediol (5ɑ-androst-1-ene-3ß,17ß-diol)](#androstenediol-5ɑ-androst-1-ene-3ß17ß-diol)
+  - [Androstenedione](#androstenedione)
 
 
 # Introduction
@@ -17,7 +18,7 @@ I decided to start researching PED's when I was in Sixth Form. Not because I wan
 
 So, I present this blog post to find the answer to my questions, do some learning and have some fun! 
 
-# Chapter 1 - Anabolic Agants
+# Chapter 1 - Anabolic Agents
 
 ## Androstenediol (5ɑ-androst-1-ene-3ß,17ß-diol)
 
@@ -26,12 +27,12 @@ RX list describes Androstendiol as an oral steroid which increases testosterone 
 
 The side effect on androstnediol seems to be basically the same side effects as using testosterone which makes sense. 
 
-This substance is a metabolite of DHEA. 
+This substance is a metabolite of DHEA so basically a couple steps before testosterone which is why it increases testosterone in the body. 
 
 sources
 https://www.rxlist.com/supplements/androstenediol.htm
 
 
-
+## Androstenedione
 
 
