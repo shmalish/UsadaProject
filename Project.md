@@ -7,6 +7,9 @@
 - [Chapter 1 - Anabolic Agents](#chapter-1---anabolic-agents)
   - [Androstenediol (5ɑ-androst-1-ene-3ß,17ß-diol)](#androstenediol-5ɑ-androst-1-ene-3ß17ß-diol)
   - [Androstenedione](#androstenedione)
+  - [1-Testosterone](#1-testosterone)
+    - [Mechanism of action](#mechanism-of-action)
+  - [4-Hydroxytestosterone](#4-hydroxytestosterone)
 
 
 # Introduction
@@ -35,4 +38,24 @@ https://www.rxlist.com/supplements/androstenediol.htm
 
 ## Androstenedione
 
+Basically the same thing as Androstenediol, just weaker. Doesn't really make your muscles bigger or stronger.
 
+## 1-Testosterone 
+
+Very high androgenic and anabolic potency. It binds to androgen receptors. 
+
+### Mechanism of action
+It binds to the androgen receptor. Once bound, the receptor/ligand complex localises to the nucleus and acts as a DNA binding transcription factor, regulating gene expression. I am not going to pretend I know what any of this means so below will be an AI explanation. 
+Certainly! Let’s break it down:
+
+1. Delta1-dihydrotestosterone (DHT): This is a type of hormone.
+2. Androgen receptor (AR): Think of this as a “lock” on the surface of certain cells.
+3. Testosterone and DHT: These are other hormones that can “fit” into the AR lock.
+4. Once bound: When DHT attaches to the AR, they form a complex.
+Localizes to the nucleus: The complex moves into the cell’s control center (the nucleus).
+Acts as a DNA binding transcription factor: Inside the nucleus, it influences which genes get turned on or off.
+5. In simpler terms, DHT interacts with the AR, enters the cell’s nucleus, and helps control gene activity. 😊12
+
+https://go.drugbank.com/drugs/DB01481
+
+## 4-Hydroxytestosterone
